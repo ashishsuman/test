@@ -28,6 +28,14 @@ public void testExample2(){
 			
 		}
 	
+	@Test
+	
+	public void testExample4(){
+			
+			System.out.println("Example 4");
+			
+		}
+	
 	
 
 }
