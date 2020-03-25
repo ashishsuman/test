@@ -19,5 +19,15 @@ public void testExample2(){
 		System.out.println("Example 2");
 		
 	}
+	
+	@Test
+	
+	public void testExample3(){
+			
+			System.out.println("Example 3");
+			
+		}
+	
+	
 
 }
