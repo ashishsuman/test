@@ -36,6 +36,14 @@ public void testExample2(){
 			
 		}
 	
+	@Test
+	
+	public void testExample6(){
+			
+			System.out.println("Example 6");
+			
+		}
+	
 	
 
 }
