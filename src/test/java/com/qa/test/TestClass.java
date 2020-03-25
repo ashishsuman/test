@@ -11,5 +11,13 @@ public class TestClass {
 		System.out.println("Example 1");
 		
 	}
+	
+	@Test
+	
+public void testExample2(){
+		
+		System.out.println("Example 2");
+		
+	}
 
 }
